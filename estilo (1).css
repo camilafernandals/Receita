@@ -1,0 +1,26 @@
+h1{
+    color:rgb(43, 4, 75);
+    text-align: center;
+}
+h2{
+    color: rgb(43, 4, 75);
+}
+h3{
+    color:rgb(43, 4, 75)
+}
+ul{
+    color:rgb(43, 4, 75)
+}
+body{
+   background-color: rgb(180, 120, 236);
+}
+li{
+    font-size: large;
+    color:rgb(43, 4, 75)
+}
+footer{
+    color:rgb(43, 4, 75)
+}
+img{
+    margin-right: 35%;
+}
